@@ -1,7 +1,4 @@
 import React from "react";
-import feather from "../img/feather.png";
-import temperature from "../img/temperature.png";
-import ribon from "../img/ribon.png";
 
 const Activity = () => {
   return (

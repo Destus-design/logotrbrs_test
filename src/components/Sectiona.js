@@ -2,8 +2,6 @@ import React from "react";
 import { AiFillBell } from "react-icons/ai";
 import { FaUserCircle } from "react-icons/fa";
 
-import cross from "../img/cross.png";
-
 const Sectiona = () => {
   return (
     <div>
